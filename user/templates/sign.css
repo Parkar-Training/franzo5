@@ -1,0 +1,41 @@
+.container-fluid{
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+body{
+    background-color: #6610f2;
+}
+#btn{
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+
+}
+.signin_form{
+    margin: 50px 20px;
+    box-shadow: #ffff;
+    border: #0000;
+    background-color: #ffff;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+.mb-3 .form-control{
+    border-radius: 20px;
+    text-align: center;
+
+}
+#button{
+        background-color:#1589FF;
+        border-radius: 20px;
+        width: 100%;
+        padding: 10px;
+        font-size: 15px;
+        margin: 10px 0;
+        border: none;
+        outline: none;
+        cursor: pointer;
+
+}
